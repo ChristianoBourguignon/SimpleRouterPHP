@@ -1,0 +1,17 @@
+{
+    "name": "chris_i1piao2/treinamento-router",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christiano Bourguignon",
+            "email": "christianombl@gmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.6"
+    }
+}
